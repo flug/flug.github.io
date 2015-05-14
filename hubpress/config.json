@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "flug",
-    "repositoryName": "flug.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"flug","repositoryName":"flug.github.io","branch":"master"},"site":{"title":"Open Blog","url":"https://flug.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//flug.github.io/themes/Casper"}}
