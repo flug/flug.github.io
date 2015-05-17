@@ -1,0 +1,13 @@
+Keepster
+=========
+
+Application android qui permet aux collectionneurs de CD, DVD (Blu Ray), Livre et jeux Vidéo de pouvoir garder avec eux toute leur bibliothèque.
+
+Elle est proposée gratuitement, sans aucune publicité et sans aucune revente de données personnelles.
+
+Elle est encore en version bêta et plusieurs changements viendront au fur et à mesure.
+
+
+
+image::keepster.qrcode.png[]
+:hp-tags: Keepster, Android
