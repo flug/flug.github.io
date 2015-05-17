@@ -8,4 +8,4 @@ Elle est proposé gratuitement, sans aucune publicité et sans aucune revente de
 
 Elle est encore en version beta et plusieurs changement viendront au fur et à mesure. 
 
-image:keepster.qrcode.png
+image::keepster.qrcode.png[]
