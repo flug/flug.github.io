@@ -1,0 +1,13 @@
+Shut Up ! 
+========
+
+
+Application android qui permet de mettre en silence les notifications du téléphone pendant l'écoute de musique. 
+
+
+Application gratuite et sans publicité. 
+
+
+image::shutup.qrcode.png[]
+
+:hp-tags: Android, ShutUp!
